@@ -1,6 +1,6 @@
 # Create randomuser database from TinyDB
 
-![Randomuser API](https://randomuser.me/api/)
+[Randomuser API](https://randomuser.me/api/)
 
 ## You need get the data in the Randomuser API
 
@@ -14,6 +14,6 @@
         "country": "United States",
         "email": "jennie.nichols@example.com",
         },
-        
+
 ]
 ```
