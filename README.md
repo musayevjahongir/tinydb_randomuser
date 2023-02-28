@@ -14,7 +14,6 @@
         "country": "United States",
         "email": "jennie.nichols@example.com",
         },
-
-        ...
+        
 ]
 ```
